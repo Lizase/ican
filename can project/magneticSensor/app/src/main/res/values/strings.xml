@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">templator!</string>
+    <string name="app_name">templator</string>
+    <string name="title">Sigma Sensors</string>
+
+    <string name="myTextView2">Current Magnetic x：</string>
+    <string name="myTextView3">Current Magnetic y：</string>
+    <string name="myTextView4">Current Magnetic z：</string>
+    <string name="myTextView5">Current Accelero x：</string>
+    <string name="myTextView6">Current Accelero y：</string>
+    <string name="myTextView7">Current Accelero z：</string>
+    <string name="myTextView8">Current Oraenttation x：</string>
+    <string name="myTextView9">Current Oraenttation y：</string>
+    <string name="myTextView10">Current Oraenttation z：</string>
+
+</resources>
